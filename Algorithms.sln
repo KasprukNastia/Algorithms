@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeNumber", "Palindr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToInteger", "RomantoInteger\RomanToInteger.csproj", "{029B9891-60C7-4F9B-9BC1-5662C914A799}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{6F0BC485-D092-4D7B-B0C6-3497D65F14FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{029B9891-60C7-4F9B-9BC1-5662C914A799}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{029B9891-60C7-4F9B-9BC1-5662C914A799}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{029B9891-60C7-4F9B-9BC1-5662C914A799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F0BC485-D092-4D7B-B0C6-3497D65F14FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F0BC485-D092-4D7B-B0C6-3497D65F14FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F0BC485-D092-4D7B-B0C6-3497D65F14FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F0BC485-D092-4D7B-B0C6-3497D65F14FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
