@@ -3,23 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{B5313F2F-9151-4072-9AB4-17247493E601}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum", "TwoSum\TwoSum.csproj", "{B5313F2F-9151-4072-9AB4-17247493E601}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeNumber", "PalindromeNumber\PalindromeNumber.csproj", "{40C0F57C-F5F7-4CF3-BC8F-7BB8B266E8F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromeNumber", "PalindromeNumber\PalindromeNumber.csproj", "{40C0F57C-F5F7-4CF3-BC8F-7BB8B266E8F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToInteger", "RomantoInteger\RomanToInteger.csproj", "{029B9891-60C7-4F9B-9BC1-5662C914A799}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomanToInteger", "RomantoInteger\RomanToInteger.csproj", "{029B9891-60C7-4F9B-9BC1-5662C914A799}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{6F0BC485-D092-4D7B-B0C6-3497D65F14FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{6F0BC485-D092-4D7B-B0C6-3497D65F14FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidParentheses", "ValidParentheses\ValidParentheses.csproj", "{5A55C339-AD0E-4C3C-B1CC-B2CD9513446D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidParentheses", "ValidParentheses\ValidParentheses.csproj", "{5A55C339-AD0E-4C3C-B1CC-B2CD9513446D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTwoSortedLists", "MergeTwoSortedLists\MergeTwoSortedLists.csproj", "{04AB1E05-A0F2-407A-B792-822FE19CA1C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeTwoSortedLists", "MergeTwoSortedLists\MergeTwoSortedLists.csproj", "{04AB1E05-A0F2-407A-B792-822FE19CA1C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicatesFromSortedArray", "RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray.csproj", "{7E4FC99A-F596-454D-A929-EBA08589ACFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplicatesFromSortedArray", "RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray.csproj", "{7E4FC99A-F596-454D-A929-EBA08589ACFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveElement", "RemoveElement\RemoveElement.csproj", "{2A0FA1B1-4746-409E-933E-62EC1310DD93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveElement", "RemoveElement\RemoveElement.csproj", "{2A0FA1B1-4746-409E-933E-62EC1310DD93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchInsertPosition", "SearchInsertPosition\SearchInsertPosition.csproj", "{4E522444-93AB-4B7B-8CED-A7DC53795EDD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchInsertPosition", "SearchInsertPosition\SearchInsertPosition.csproj", "{4E522444-93AB-4B7B-8CED-A7DC53795EDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LengthOfLastWord", "LengthOfLastWord\LengthOfLastWord.csproj", "{08CCA179-234D-4CB6-AE06-9AA7AC3B31BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{4E522444-93AB-4B7B-8CED-A7DC53795EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E522444-93AB-4B7B-8CED-A7DC53795EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E522444-93AB-4B7B-8CED-A7DC53795EDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08CCA179-234D-4CB6-AE06-9AA7AC3B31BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08CCA179-234D-4CB6-AE06-9AA7AC3B31BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08CCA179-234D-4CB6-AE06-9AA7AC3B31BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08CCA179-234D-4CB6-AE06-9AA7AC3B31BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
