@@ -23,6 +23,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchInsertPosition", "Sea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LengthOfLastWord", "LengthOfLastWord\LengthOfLastWord.csproj", "{08CCA179-234D-4CB6-AE06-9AA7AC3B31BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusOne", "PlusOne\PlusOne.csproj", "{496BD831-B4A4-4907-8EC8-33B387EEBF28}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{08CCA179-234D-4CB6-AE06-9AA7AC3B31BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08CCA179-234D-4CB6-AE06-9AA7AC3B31BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08CCA179-234D-4CB6-AE06-9AA7AC3B31BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{496BD831-B4A4-4907-8EC8-33B387EEBF28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{496BD831-B4A4-4907-8EC8-33B387EEBF28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{496BD831-B4A4-4907-8EC8-33B387EEBF28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{496BD831-B4A4-4907-8EC8-33B387EEBF28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
